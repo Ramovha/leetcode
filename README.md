@@ -1,4 +1,4 @@
-# Python Programming for Beginners.
+# LeetCode Problem Set.
 
 >The following notes and exercises are for the  [Python Programming for Beginners](https://www.udemy.com/course/python-programming-course/) course on Udemy 
 
@@ -8,6 +8,7 @@ You're sections headers will be used to reference location of destination.
 - [Description](#description)
 - [What you'll learn](#What-you-will-learn)
 - [Learning](#learning)
+- [Problem set](#problem-set)
 - [Author Info](#author-info)
 
 
@@ -60,6 +61,8 @@ Note- While adding a value, if the key value already exists, the value gets upda
 [Go to the Source Code](https://github.com/Ramovha/leetcode/blob/main/Basic/pythonDictionary3.ipynb)
 
 ---
+
+# Problem Set
 
 
 
