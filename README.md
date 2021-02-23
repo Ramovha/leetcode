@@ -67,6 +67,12 @@ Note- While adding a value, if the key value already exists, the value gets upda
 >
 In order to access the items of a dictionary refer to its key name.Key can be used inside square brackets.
 
+[Go to the Source Code]()
+
+There is also a method called get() that will also help in acessing the element from a dictionary.
+
+[Go to the Source Code]()
+
 # Problem Set
 
 
