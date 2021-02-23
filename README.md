@@ -62,6 +62,11 @@ Note- While adding a value, if the key value already exists, the value gets upda
 
 ---
 
+2. ## Accessing elements from a Dictionary
+
+>
+In order to access the items of a dictionary refer to its key name.Key can be used inside square brackets.
+
 # Problem Set
 
 
