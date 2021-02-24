@@ -1,6 +1,6 @@
 # LeetCode Problem Set.
 
->The following notes and exercises are for the  [Python Programming for Beginners](https://www.udemy.com/course/python-programming-course/) course on Udemy 
+>The following notes and exercises are for the  [LeetCode Problem Set](https://leetcode.com/problemset/all/) interview question that were asked recently by top tech companies.  
 
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
@@ -15,21 +15,17 @@ You're sections headers will be used to reference location of destination.
 # Description
 
 >
-Pуthоn iѕ a high-level programming lаnguаgе. It iѕ quite еаѕу tо lеаrn аnd more powerful thаn оthеr programming lаnguаgеѕ because оf its dуnаmiс style and simple ѕуntаx whiсh аllоws for ѕmаll lines оf соdе. Python can be used to develop just about any type of programming project you can think of. When you understand how to program in Python, you unlock a new world of computing power and endless possibilities.
+Solutions to Problems in LeetCode Website
+
 
 ---
 
 ## What you will learn
 
 >
-- How to get up and running with Python
-- Learn how to use Spyder and Jupyter Notebook
-- Understand the basics of programming in Python
-- Learn about variables, identifiers and operators
-- Explore Python’s object types such as numbers, lists, and dictionaries
-- Learn how to use conditional statements
-- Learn how to use loops and create functions
-- Understand the Numpy Module
+- Improve coding skills.
+- Learn coding knowledge.
+- Prepare for interviews.
 
 ---
 
@@ -107,6 +103,25 @@ All the items from a dictionary can be deleted at once by using clear() method.
 
 [Go to the Source Code](https://github.com/Ramovha/leetcode/blob/main/Basic/pythonDictionary7.ipynb)
 
+6. ## Dictionary Methods
+>
+Python has a set of built-in methods that you can use on dictionaries.
+>
+url : https://www.geeksforgeeks.org/python-dictionary/
+>
+Method      Description
+- clear() ===>Removes all the elements from the dictionary e
+- copy() ====>Returns a copy of the dictionary
+- fromkeys()===>Returns a dictionary with the specified keys and values
+- get() ====>Returns the value of the specified key
+- items()====>Returns a list containing the a tuple for each key value pair
+- keys() ====>Returns a list containing the dictionary's keys
+- pop()=====>Removes the element with the specified key
+- popitem()====>Removes the last inserted key-value pair
+- setdefault()====>Returns the value of the specified key. If the key does not - exist: insert the key, with the specified value
+- update()====>Updates the dictionary with the specified key-value pairs
+- values()====>Returns a list of all the values in the dictionary
+
 
 # Problem Set
 
@@ -117,5 +132,5 @@ All the items from a dictionary can be deleted at once by using clear() method.
 - Linkedin - [Rotondwa Ramovha](https://www.linkedin.com/in/rotondwa-ramovha-ba7938141/)
 - Website - [VirtualCollab](https://virtualcollab.co.za/)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#leetcode-problem-set)
 =======
