@@ -73,6 +73,15 @@ There is also a method called get() that will also help in acessing the element 
 
 [Go to the Source Code](https://github.com/Ramovha/leetcode/blob/main/Basic/pythonDictionary4.ipynb)
 
+---
+
+3. ## Accessing element of a nested dictionary
+
+>
+In order to access the value of any key in nested dictionary, use indexing [] syntax.
+
+[Go to the Source Code](https://github.com/Ramovha/leetcode/blob/main/Basic/pythonDictionary5.ipynb)
+
 # Problem Set
 
 
