@@ -82,6 +82,32 @@ In order to access the value of any key in nested dictionary, use indexing [] sy
 
 [Go to the Source Code](https://github.com/Ramovha/leetcode/blob/main/Basic/pythonDictionary5.ipynb)
 
+---
+
+4. ## Removing Elements from Dictionary
+
+>
+Using del keyword
+In Python Dictionary, deletion of keys can be done by using the del keyword. Using del keyword, specific values from a dictionary as well as whole dictionary can be deleted. Items in a Nested dictionary can also be deleted by using del keyword and providing specific nested key and particular key to be deleted from that nested Dictionary.
+
+Note- del Dict will delete the entire dictionary and hence printing it after deletion will raise an Error.
+
+[Go to the Source Code](https://github.com/Ramovha/leetcode/blob/main/Basic/pythonDictionary6.ipynb)
+
+---
+
+5. ## Using pop() method, popitem() method and clear() method
+
+>
+Pop() method is used to return and delete the value of the key specified.
+>
+The popitem() returns and removes an arbitrary element (key, value) pair from the dictionary
+>
+All the items from a dictionary can be deleted at once by using clear() method.
+
+[Go to the Source Code](https://github.com/Ramovha/leetcode/blob/main/Basic/pythonDictionary7.ipynb)
+
+
 # Problem Set
 
 
